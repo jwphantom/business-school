@@ -489,7 +489,7 @@ AppModule.ɵinj = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineInjector
             _angular_forms__WEBPACK_IMPORTED_MODULE_15__["FormsModule"],
             _angular_forms__WEBPACK_IMPORTED_MODULE_15__["ReactiveFormsModule"],
             _angular_common_http__WEBPACK_IMPORTED_MODULE_18__["HttpClientModule"],
-            ngx_multi_pixel__WEBPACK_IMPORTED_MODULE_31__["PixelModule"].forRoot({ enabled: true, pixelId: ["816861043775264"] }),
+            ngx_multi_pixel__WEBPACK_IMPORTED_MODULE_31__["PixelModule"].forRoot({ enabled: true, pixelId: ["575990404558741"] }),
             _ngx_translate_core__WEBPACK_IMPORTED_MODULE_16__["TranslateModule"].forRoot({
                 loader: {
                     provide: _ngx_translate_core__WEBPACK_IMPORTED_MODULE_16__["TranslateLoader"],
@@ -559,7 +559,7 @@ AppModule.ɵinj = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineInjector
                     _angular_forms__WEBPACK_IMPORTED_MODULE_15__["FormsModule"],
                     _angular_forms__WEBPACK_IMPORTED_MODULE_15__["ReactiveFormsModule"],
                     _angular_common_http__WEBPACK_IMPORTED_MODULE_18__["HttpClientModule"],
-                    ngx_multi_pixel__WEBPACK_IMPORTED_MODULE_31__["PixelModule"].forRoot({ enabled: true, pixelId: ["816861043775264"] }),
+                    ngx_multi_pixel__WEBPACK_IMPORTED_MODULE_31__["PixelModule"].forRoot({ enabled: true, pixelId: ["575990404558741"] }),
                     _ngx_translate_core__WEBPACK_IMPORTED_MODULE_16__["TranslateModule"].forRoot({
                         loader: {
                             provide: _ngx_translate_core__WEBPACK_IMPORTED_MODULE_16__["TranslateLoader"],
