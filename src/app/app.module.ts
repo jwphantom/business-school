@@ -70,7 +70,7 @@ import { PixelModule } from "ngx-multi-pixel";
     FormsModule,
     ReactiveFormsModule,
     HttpClientModule,
-    PixelModule.forRoot({ enabled: true, pixelId: ["290325576943462"] }),
+    PixelModule.forRoot({ enabled: true, pixelId: ["816861043775264"] }),
     TranslateModule.forRoot({
       loader: {
         provide: TranslateLoader,
