@@ -4987,13 +4987,13 @@ class ProgramsService {
         this.dateComp = [
             {
                 code: "281023",
-                name: "Concours du 28 Septembre 2023",
+                name: "Concours du 28 Octobre 2023",
             }
         ];
         this.listConcours = [
             {
                 code: "281023",
-                name: "Concours du 28 Septembre 2023",
+                name: "Concours du 28 Octobre 2023",
             }
         ];
         this.nEtdute = [
