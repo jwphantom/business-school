@@ -15,7 +15,6 @@ export class FooterComponent implements OnInit {
   public appname = GlobalConstants.appname;
   public localisation = GlobalConstants.localisation;
   public phone1 = GlobalConstants.phone1;
-  public phone2 = GlobalConstants.phone2;
   public email = GlobalConstants.email;
 
 

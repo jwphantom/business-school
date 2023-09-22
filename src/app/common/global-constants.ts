@@ -21,8 +21,7 @@ export class GlobalConstants {
     public static appname: string = "IRDSM BUSINESS SCHOOL"
 
     //phone customer support
-    public static phone1: string = "(+237) 650 694 183"
-    public static phone2: string = "(+237) 695 694 183"
+    public static phone1: string = "(+237) 676 878 549"
 
     //localisation of campus
     public static localisation: string = "Cameroun, Yaoundé, Omnisports, Face stade annexe 1";
